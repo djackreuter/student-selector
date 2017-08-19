@@ -1,0 +1,17 @@
+#studentName {
+	font-size: 4rem;
+}
+
+h1 {
+	font-size: 5rem;
+}
+
+ul {
+	text-decoration: none;
+	list-style: none;
+}
+
+.active {
+	font-weight: bold;
+	font-size:2rem;
+}
