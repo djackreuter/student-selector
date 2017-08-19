@@ -1,6 +1,35 @@
 var students = [
-		"test1",
-		"test2"
+	"Gabriel",
+	"Devyn",
+	"Madison",
+	"Julian",
+	"Andrea",
+	"Paige",
+	"Edwin",
+	"Ethan",
+	"Skylar",
+	"Jayce",
+	"Jacob",
+	"Jody",
+	"Michael",
+	"Steiveann",
+	"Sabrina",
+	"Dylan",
+	"Noel",
+	"Karissa",
+	"Casey",
+	"Matthew",
+	"Nicholas",
+	"Abraham",
+	"Nevaeh",
+	"Jaiden",
+	"Lexiana",
+	"Stephen",
+	"Liam",
+	"Audrey",
+	"Joshua",
+	"Brigette",
+	"Mr. Stan"
 ];
 
 function pickStudent() {
