@@ -1,6 +1,6 @@
 var students = [
 	"Gabriel",
-	"Devyn",
+	"Paola",
 	"Madison",
 	"Julian",
 	"Andrea",
@@ -9,7 +9,7 @@ var students = [
 	"Ethan",
 	"Skylar",
 	"Jayce",
-	"Jacob",
+	"Jacob G.",
 	"Jody",
 	"Michael",
 	"Steiveann",
@@ -29,8 +29,11 @@ var students = [
 	"Audrey",
 	"Joshua",
 	"Brigette",
-	"Mr. Stan"
+	"Mr. Stan",
+	"Ryan",
+	"Jacob F."
 ];
+
 
 function pickStudent() {
 	var twister = new MersenneTwister();
@@ -40,3 +43,5 @@ function pickStudent() {
 		document.getElementById('studentName').innerHTML = students[Math.floor(twister.random() * students.length)];
 	}, 400);
 }
+
+
